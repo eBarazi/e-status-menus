@@ -1,6 +1,6 @@
 # Separate Status Menus — GNOME Shell 48 (experimental)
 
-Five separate top-bar popups: Wi-Fi, Bluetooth, Battery, Sound, Brightness.
+Five separate topbar popups: WiFi, Bluetooth, Battery, Sound, Brightness.
 Original GNOME Quick Settings is not changed or hidden.
 
 ## Requirements
