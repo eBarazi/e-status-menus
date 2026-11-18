@@ -1,0 +1,9 @@
+{
+  "uuid": "e-status-menus@local",
+  "name": "Separate Status Menus (GNOME 48)",
+  "description": "Five independent top-panel menus for Wi-Fi, Bluetooth, battery, sound and brightness. Keeps Quick Settings intact.",
+  "shell-version": [
+    "48"
+  ],
+  "version": 1
+}
